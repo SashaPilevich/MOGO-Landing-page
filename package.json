@@ -1,0 +1,24 @@
+{
+  "name": "mogo-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html —no-source-maps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaPilevich/MOGO-Landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaPilevich/MOGO-Landing-page/issues"
+  },
+  "homepage": "https://github.com/SashaPilevich/MOGO-Landing-page#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
